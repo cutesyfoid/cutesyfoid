@@ -1,1 +1,3 @@
 i’m a 22-year-old woman in STEM, starting my studies in either mechatronics, aerospace engineering, or civil engineering next october. we’ll see where life takes me. i’m a python developer currently learning C++. this github is where i document my progress like projects, experiments, and everything i’m learning along the way. please DM @ezrxmllr on discord if you'd like to test my projects in practice, if you like them i'd happily code something for you:)
+
+i am able to code whatever personalized bot you'd like, making it look cute too, of course. imagine if MIMU and YAGPDB had a child that could also play music, have more functions (of your choice) and a cute animated (or not) profile picture/banner. <3
